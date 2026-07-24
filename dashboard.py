@@ -64,4 +64,4 @@ if uploaded_file:
     st.dataframe(geno_data)
 
 else:
-    st.info("Upload a CSV file to begin exploring your FHB data.")
+    st.info("Upload a CSV file to begin exploring your FHB data.")# rebuild
